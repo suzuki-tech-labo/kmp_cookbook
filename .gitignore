@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+/build/
+**/build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.navigation/
+
+# Android local files
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aar
+*.hprof
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Xcode/iOS user settings and build files
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+xcuserdata/
+DerivedData/
